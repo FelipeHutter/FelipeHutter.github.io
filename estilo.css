@@ -1,0 +1,14 @@
+
+legend{
+     color: black;
+}
+
+body{ 
+    background-color: yellow;
+    text-align: center;
+}
+
+#formulario input.btn_submit{
+    border-bottom-style: double;
+    border-color: black;
+}
